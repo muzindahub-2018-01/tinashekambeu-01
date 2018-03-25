@@ -1,0 +1,42 @@
+body {
+	background-color: lightgrey;
+}
+
+header {
+	text-align: center;
+}
+
+h1 {
+	font-size: 90px;
+	color: turquoise;
+}
+
+h2 {
+	font-size: 40px;
+	color: orange;
+}
+
+header {
+	background-color: grey;
+}
+
+p {
+	font-size: 26px;
+}
+
+ul a {
+	color: white;
+	font-size: 20px;
+}
+
+footer p {
+	font-size: 17px;
+}
+
+address {
+	font-size: 20px;
+}
+
+a:hover {
+	color: orange;
+}
